@@ -1,4 +1,5 @@
-# NSF Research Experiences for Undergraduates at MS&T
+NSF Research Experiences for Undergraduates at MS&T
+
 Undergraduate Research Project by Jose Herrera (UC Merced), David Cabral (UC Merced), Christopher Peabody (MS&amp;T) conducted at Missouri University of Science and Technology during the time period of: (May of 2017- August of 2017)
 
 
